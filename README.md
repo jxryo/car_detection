@@ -43,17 +43,17 @@ $$
 
 ![处理前图片](0000.png)
 
-![0000_c1](C:\Users\DELL\Desktop\素材\0000_c1.png)
+![0000_c1](0000_c1.png)
 
 
 
 
 
-![0000_n](C:\Users\DELL\Desktop\素材\0000_n.png)
+![0000_n](0000_n.png)
 
 
 
-![0000_c2](C:\Users\DELL\Desktop\素材\0000_c2.png)
+![0000_c2](0000_c2.png)
 
 使用 LinearSVC DecisionTreeClassifier RandomForestClassifier三种方法训练数据集
 
